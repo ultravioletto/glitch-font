@@ -1,0 +1,54 @@
+{
+  "/glitch_sustain": {
+    "min": 1,
+    "max": 1000,
+    "value": 200
+  },
+  "/glitch_randomness_posX": {
+    "min": 0,
+    "max": 1500,
+    "value": 1500
+  },
+  "/glitch_randomness_posY": {
+    "min": 0,
+    "max": 1500,
+    "value": 1500
+  },
+  "/saveSequence": {"value": 0},
+  "/glitch_posY": {
+    "min": 1,
+    "max": 1500,
+    "value": 815.4566650390625
+  },
+  "/glitch_posX": {
+    "min": 1,
+    "max": 1500,
+    "value": 775.4833374023438
+  },
+  "/glitch_numberOfGlitches": {
+    "min": 1,
+    "max": 500,
+    "value": 40
+  },
+  "/glitch_randomness": {
+    "min": 0,
+    "max": 2,
+    "value": 1
+  },
+  "/glitch_num_cicles": {
+    "min": 1,
+    "max": 50,
+    "value": 1
+  },
+  "/glitch_SizeX": {
+    "min": 1,
+    "max": 1500,
+    "value": 49.999996185302734
+  },
+  "/glitch_SizeY": {
+    "min": 1,
+    "max": 1500,
+    "value": 1500
+  },
+  "/blackAndWithe": {"value": 1}
+}
